@@ -10,4 +10,3 @@ wordcloud
 matplotlib
 urllib
 nltk
-gopup
